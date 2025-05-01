@@ -41,9 +41,11 @@ This Excel-based dashboard tracks unused bed days across behavioral health facil
 Link to Project:
 https://github.com/danforsomereason/utilization-report/blob/main/Unused%20Days%20Report%20-%20Mock%20Data.xlsx
 
+
+
 ---
 
 ## 🤝 Author
 
-Built by Dan Hutcheson, a behavioral health professional and software developer passionate about creating tools that improve clinical decision-making and operational efficiency.
+Built by Dan Hutcheson
 
